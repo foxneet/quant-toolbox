@@ -16,7 +16,7 @@
 | `code/03_anti_pitfall_tests.py` | 工具箱 ② | 防坑三件套：参数网格 / 样本外检验 / 成本压测 |
 | `code/04_position_kelly.py` | 工具箱 ③ | 凯利公式实测（f*=0.75）+ 仓位扫描 + 回撤响应实验 |
 | `code/05_rsrs_timing.py` | 中秋特供 | RSRS 择时实测：发布前年化 27%，发布后 2.5% |
-| `code/06_api_benchmark.py` | 数据接口横评 | baostock / akshare / TQ / xtquant 六组接口速度实测 |
+| `code/06_api_benchmark.py` | 数据接口横评 | baostock / akshare / TQ / xtquant 六组接口速度实测（xtquant 段为历史实测，miniQMT 已停用） |
 | `code/07_data_pipeline.py` | AI 投研 ② | 适配器 + parquet 落库 + 增量更新 + 四项质检 |
 | `code/08_moon_phase.py` | 中秋彩蛋 | 计算任意日期的月相（含月相对收益的趣味检验） |
 
