@@ -6,3 +6,5 @@ __pycache__/
 *.csv
 *.parquet
 .DS_Store
+# TQRelay 独立仓库（foxneet/tq-relay）
+TQ转发器_GitHub/
